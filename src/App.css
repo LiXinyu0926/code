@@ -1,0 +1,12 @@
+img{
+  width: 100%;
+}
+table{
+  table-layout: fixed;
+}
+.a{
+  width: 100%;
+  white-space:nowrap;
+  text-overflow:ellipsis;
+  overflow: hidden;
+}
